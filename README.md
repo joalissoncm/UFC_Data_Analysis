@@ -4,4 +4,5 @@
 ### Análise de dados de todas as lutas do UFC.
 
 Data Science tem sido muito usado nos esportes, e muito do efeito pode ser visto em esportes mais novos como o MMA.
-O objetivo deste projeto é realizar análises estatísticas para ajudar na compreensão do modelo de negócios do UFC e as principais diferenças entre as categorias de peso.
+
+Foram analisadas todas as lutas da história do UFC. O objetivo deste projeto é realizar análises estatísticas para ajudar na compreensão do modelo de negócios do UFC e as principais diferenças entre as categorias de peso.
