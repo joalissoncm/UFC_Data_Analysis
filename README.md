@@ -17,4 +17,3 @@ desse esporte tão jovem.
 
 Se você tem qualquer correção ou sugestão pode me enviar por email: joalisson.contato@gmail.com, ou entrar em contato comigo por qualquer rede social.
 
-![2247  Convertido 2](https://user-images.githubusercontent.com/63914002/131748997-8b224aa0-25b0-4c23-bfe5-75f80ba9094a.jpg)
