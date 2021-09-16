@@ -1,3 +1,4 @@
+[![author](https://img.shields.io/badge/LinkedIn-joalissoncmoreira-blue.svg)](https://www.linkedin.com/in/joalisson-da-costa-moreira-12119b220/)
 # Análise de Dados - UFC
 ![Sem Título-1](https://user-images.githubusercontent.com/63914002/131749675-b3255225-f68d-4586-a092-a6e10feb6da8.jpg)
 
