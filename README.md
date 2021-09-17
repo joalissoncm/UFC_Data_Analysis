@@ -10,6 +10,8 @@ Data Science tem sido muito usado nos esportes, e muito do efeito pode ser visto
 Foram analisadas todas as lutas da história do UFC. O objetivo deste projeto é realizar análises estatísticas para ajudar na
 compreensão do modelo de negócios do UFC e as principais diferenças entre as categorias de peso.
 
+Link para o Colab: https://colab.research.google.com/drive/1OzdQNDX0917C0YOar8PT0ApKJ8cqd8Dj?usp=sharing
+
 ![Sem Título-2](https://user-images.githubusercontent.com/63914002/131590324-8078c506-186c-4a25-8137-e491eb86ac94.png)
 
 Diferencial
