@@ -19,7 +19,7 @@ Um importante diferencial neste trabalho de análise de dados, é o meu backgrou
 que vão além do óbvio, por exemplo, a correlação entre golpes significativos e vitórias ou takedowns aplicados e derrotas.
 
 O diferencial de um par de olhos extra analisando os dados, bem como técnicas estatísticas, ajudam muito a entender as particularidades
-desse esporte tão jovem.
+do modelo de negócios do UFC e desse esporte tão jovem.
 
 Se você tem qualquer correção ou sugestão pode me enviar por email: joalisson.contato@gmail.com, ou entrar em contato comigo por qualquer rede social.
 
