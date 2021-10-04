@@ -14,7 +14,7 @@ compreensão do modelo de negócios do UFC e as principais diferenças entre as 
 
 ![Sem Título-2](https://user-images.githubusercontent.com/63914002/131590324-8078c506-186c-4a25-8137-e491eb86ac94.png)
 
-Diferencial
+#### Diferencial
 Um importante diferencial neste trabalho de análise de dados, é o meu background com o MMA que me faz identificar correlações
 que vão além do óbvio, por exemplo, a correlação entre golpes significativos e vitórias ou takedowns aplicados e derrotas.
 
