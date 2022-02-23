@@ -7,7 +7,7 @@
 
 Data Science tem sido muito usado nos esportes, e muito do efeito pode ser visto em esportes mais novos como o MMA.
 
-Foram analisadas todas as lutas da história do UFC. O objetivo deste projeto é realizar análises estatísticas para ajudar na
+Foram analisadas mais de 4800 lutas do UFC. O objetivo deste projeto é realizar análises estatísticas para ajudar na
 compreensão do modelo de negócios do UFC e as principais diferenças entre as categorias de peso.
 
 #### Veja a análise completo no Colab: https://colab.research.google.com/drive/1OzdQNDX0917C0YOar8PT0ApKJ8cqd8Dj?usp=sharing
